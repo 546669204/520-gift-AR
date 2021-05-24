@@ -58,3 +58,5 @@ jobs:
         #jekyll: # optional, default is true
         # If enabled, nothing will be pushed
         #dry-run: # optional, default is false
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
