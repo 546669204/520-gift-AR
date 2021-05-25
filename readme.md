@@ -10,6 +10,11 @@
 [WEBXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)  
 [threejs](https://threejs.org/)  
 [兼容性](https://caniuse.com/mdn-api_xrsessionmode_immersive-vr)  
+## Browser Support
+
+|![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)<br>Chrome|![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png)<br>Edge|![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/brave/brave_48x48.png)<br>Brave|![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)<br>Safari|![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png)<br>Firefox|![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/samsung-internet/samsung-internet_48x48.png)<br>Samsung Internet|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|90+|90+|:x:|:x:|:x:|12+|
 
 ## Demo
 
